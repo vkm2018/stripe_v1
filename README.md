@@ -30,3 +30,9 @@ pip install -r requirements.txt
 ```
 ./manage.py runserver
 ```
+7. Пройти по ссылке для проверки
+```
+http://127.0.0.1:8000/api/v1/item/<pk>/
+http://127.0.0.1:8000/api/v1/buy/<pk>/
+```
+
